@@ -24,7 +24,7 @@ The team used Microsoft Teams for meetings and WhatsApp when Teams had technical
 
 ### Evidence 1: Attendance Register
 
-![UniLink Hub team meeting](http://localhost:62964/images/attendance-register.png)
+![UniLink Hub team meeting](../images/attendance-register.png)
 
 **Purpose:** This plays a role on marking attendamce register for class sessions, which is to be submitted to the lecturer as prove of attendance, rather than shouting or texting our selves present.
 
@@ -36,7 +36,8 @@ My individual work included testing registration/API behaviour in Postman, inves
 
 ### Evidence 2: Agile Logbook
 
-![UniLink Hub team meeting](http://localhost:62964/images/back-log-1.png) ![UniLink Hub team meeting](http://localhost:62964/images/back-log-2.png)
+![UniLink Hub team meeting](../images/back-log-1.png)
+![UniLink Hub team meeting](../images/back-log-2.png)
 
 **Figure 1: Team Project Backlog**
 
@@ -80,7 +81,6 @@ I learned more about implementing backend functionality with Java and Spring Boo
 
 ## 5.6 Evidence and final verification checklist
 
--   [ ]  Replace approximate weeks only if exact dates are available; otherwise keep them labelled approximate.
 -   [ ]  Add genuine GitHub commit/branch links for my work.
 -   [ ]  Add actual Trello backlog/sprint/task evidence.
 -   [ ]  Add Figma evidence and any real lecturer feedback.
