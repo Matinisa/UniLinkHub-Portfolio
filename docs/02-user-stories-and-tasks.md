@@ -66,7 +66,7 @@ This is a useful breakdown of the work, but only mark individual tasks as comple
 
 ### Evidence 2.2: Git Commits
 
-![UniLink Hub team meeting](../images/G-Commits-1.png)
+![UniLink Hub team meeting](http://localhost:62964/images/G-Commits-1.png)
 
 **Figure 2: GitHub Repo Commits**
 
