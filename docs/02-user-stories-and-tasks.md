@@ -58,7 +58,7 @@ This is a useful breakdown of the work, but only mark individual tasks as comple
 
 ![UniLink Hub team meeting](../images/Trello-User-Story-1.png) 
 
-![UniLink Hub team meeting](http://localhost:62964/images/Trello-User-Story-2.png)
+![UniLink Hub team meeting](../images/Trello-User-Story-2.png)
 
 **Figure 1: Conducted User Story**
 
@@ -68,7 +68,7 @@ This is a useful breakdown of the work, but only mark individual tasks as comple
 
 ### Evidence 2.2: Git Commits
 
-![UniLink Hub team meeting](http://localhost:62964/images/G-Commits-1.png)
+![UniLink Hub team meeting](../images/G-Commits-1.png)
 
 **Figure 2: GitHub Repo Commits**
 
@@ -78,8 +78,8 @@ This is a useful breakdown of the work, but only mark individual tasks as comple
 
 ### Evidence 2.3: API test Evidence
 
-![UniLink Hub team meeting](http://localhost:62964/images/Api-Test-1.png) 
-![UniLink Hub team meeting](http://localhost:62964/images/Api-Test-2.png)
+![UniLink Hub team meeting](../images/Api-Test-1.png) 
+![UniLink Hub team meeting](../images/Api-Test-2.png)
 
 **Figure 3: API end-point test**
 
