@@ -56,7 +56,9 @@ This is a useful breakdown of the work, but only mark individual tasks as comple
 
 ### Evidence 2.1: User Story Evidence
 
-![UniLink Hub team meeting](http://localhost:62964/images/Trello-User-Story-1.png) ![UniLink Hub team meeting](http://localhost:62964/images/Trello-User-Story-2.png)
+![UniLink Hub team meeting](../images/Trello-User-Story-1.png) 
+
+![UniLink Hub team meeting](http://localhost:62964/images/Trello-User-Story-2.png)
 
 **Figure 1: Conducted User Story**
 
