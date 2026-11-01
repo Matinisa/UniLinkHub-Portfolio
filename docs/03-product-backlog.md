@@ -39,7 +39,7 @@ The team used Trello to track some tasks and backlog work, and GitHub for code s
 
 ### Evidence 3.1: Product Backlog
 
-![UniLink Hub team meeting](http://localhost:62964/images/product-backlog-1.png)
+![UniLink Hub team meeting](../images/product-backlog-1.png)
 
 **Figure 1: Product backlog**
 
