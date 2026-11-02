@@ -1,41 +1,113 @@
-# UniLink Hub — Agile Project Portfolio
+# UniLink Hub – Agile Development E-Portfolio
 
-This repository contains documentation for the UniLink Hub student marketplace project. It is organised around the five components in the portfolio assessment brief:
+**Student:** Matinisa Lubisi  
+**Institution:** Cape Peninsula University of Technology  
+**Programme:** ICT in Application Development  
+**Project:** UniLink Hub  
+**Portfolio Type:** Individual E-Portfolio
 
-1. Agile Team Charter
-2. User Stories and Tasks
-3. Product Backlog
-4. Sprint Backlog
-5. Agile Logbook
+---
 
-## Project overview
+## 1. Introduction
 
-UniLink Hub is a student marketplace intended to help students discover products and services offered by student entrepreneurs. Entrepreneurs can create business profiles and publish listings; other students can browse listings and contact or express interest in providers.
+Welcome to my UniLink Hub Agile Development E-Portfolio. This portfolio documents my learning journey, contributions, experiences, and reflections throughout the development of UniLink Hub.
 
-## Technology used
+UniLink Hub is a student-oriented marketplace designed to connect student entrepreneurs with potential customers within the university community. The platform provides an environment where students can discover products and services offered by fellow students while enabling entrepreneurs to promote their businesses.
 
-- Frontend: React, HTML, CSS and JavaScript
-- Backend: Java, Spring Boot, Spring Security and REST APIs
-- Database work: MySQL connectivity/testing was performed
-- Collaboration and project tools: GitHub, Trello, Microsoft Teams, WhatsApp and Figma
-- API testing: Postman
+This portfolio demonstrates my understanding and application of Agile development practices, teamwork, project planning, requirements engineering, backlog management, and iterative software development.
 
-## How to use this documentation
+## 2. Project Overview
 
-Read the five files in `docs/`. Replace every `[confirm]` or `[insert]` placeholder with verified information before submitting. Add authentic evidence such as screenshots of Trello boards, GitHub commits/branches, Figma wireframes, API tests, project demonstrations, or the deployed system. Do not include passwords, tokens, private student information, or other secrets in screenshots.
+### Problem Statement
 
-## Evidence checklist
+Students who offer products and services often struggle to reach potential customers. Information about student businesses is frequently shared through informal communication channels, making it difficult for customers to discover available offerings.
 
-- [ ] Screenshot/export of the Team Charter or team-role agreement
-- [ ] User stories, requirements notes, or Trello cards
-- [ ] Product backlog / Trello backlog screenshot
-- [ ] Sprint backlog or sprint task cards, with dates only where verified
-- [ ] Authentic GitHub commits, pull requests, branches, or issue history
-- [ ] Figma wireframes or approved UI screenshots
-- [ ] Postman requests/responses showing API testing (hide secrets and personal data)
-- [ ] Testing evidence and lecturer presentation evidence, if available
-- [ ] Verified deployment URL/status, if available
+UniLink Hub aims to address this challenge by providing a centralised platform where student entrepreneurs can showcase their businesses and customers can discover available products and services.
 
-## Academic integrity
+### Project Objectives
 
-This portfolio describes the project history and individual contribution as currently recalled. Verify uncertain details, acknowledge team contributions, and follow the lecturer's referencing instructions for any external sources used.
+- Provide a marketplace for student entrepreneurs.
+- Enable customers to discover student products and services.
+- Allow entrepreneurs to create profiles and manage their listings.
+- Improve accessibility and visibility of student businesses.
+- Encourage collaboration and entrepreneurship within the student community.
+
+## 3. Technologies and Tools
+
+| Category | Technologies / Tools |
+|---|---|
+| Frontend | React, HTML, CSS, JavaScript |
+| Backend | Java, Spring Boot |
+| Security | Spring Security |
+| Database | MySQL |
+| API Testing | Postman |
+| UI/UX Design | Figma |
+| Version Control | Git and GitHub |
+| Project Management | Trello |
+| Communication | Microsoft Teams and WhatsApp |
+
+## 4. My Individual Contribution
+
+My primary responsibility within the UniLink Hub development team was backend development and database-related activities.
+
+My contributions included:
+
+- Developing backend functionality using Java and Spring Boot.
+- Working with Spring Security for application security.
+- Implementing and working with REST APIs.
+- Working on user registration and authentication functionality.
+- Testing database connectivity and password encryption.
+- Performing API testing using Postman.
+- Collaborating with frontend developers during integration.
+- Investigating backend errors and resolving development challenges.
+
+This experience helped me strengthen my understanding of backend development, database integration, application security, and collaborative software engineering.
+
+## 5. Agile Development Portfolio
+
+The following sections document the five assessed components of my Agile Development E-Portfolio.
+
+| Assessment Component | Description |
+|---|---|
+| [1. Agile Team Charter](docs/01-agile-team-charter.md) | Documents the team's purpose, responsibilities, communication practices, and working agreements. |
+| [2. User Stories and Tasks](docs/02-user-stories-and-tasks.md) | Presents user requirements from the perspectives of different system users and their associated development tasks. |
+| [3. Product Backlog](docs/03-product-backlog.md) | Documents the prioritised list of features and functionality identified for UniLink Hub. |
+| [4. Sprint Backlog](docs/04-sprint-backlog.md) | Describes development activities, task allocation, and progress throughout the project. |
+| [5. Agile Logbook](docs/05-agile-logbook.md) | Reflects on project activities, challenges, progress, and personal learning experiences. |
+
+## 6. Evidence of Learning and Collaboration
+
+This portfolio includes supporting evidence of my participation and learning throughout the project, including:
+
+- Team communication and collaboration evidence.
+- Requirements and user story documentation.
+- Figma design and planning evidence.
+- Trello backlog and task management evidence.
+- GitHub development and version control evidence.
+- Postman API testing evidence.
+- Personal reflections on challenges and lessons learned.
+
+Evidence is included alongside the relevant portfolio components to demonstrate the relationship between project activities and my learning outcomes.
+
+## 7. Personal Reflection
+
+Working on UniLink Hub provided me with an opportunity to apply theoretical Agile concepts in a collaborative software development environment.
+
+One of my main learning experiences was developing a deeper understanding of backend development, particularly Spring Boot, REST APIs, database integration, and application security.
+
+I also experienced challenges when troubleshooting errors, testing APIs, and integrating backend functionality with the frontend. These challenges encouraged me to improve my problem-solving approach, seek appropriate technical resources, and communicate with my teammates.
+
+The project helped me recognise the importance of teamwork, communication, planning, testing, and continuous improvement in software development.
+
+## 8. Conclusion
+
+UniLink Hub represents an important learning experience in my Application Development journey. Through this project, I gained practical exposure to Agile development, collaborative software engineering, backend development, database integration, and software testing.
+
+This portfolio reflects both the work completed during the project and the knowledge, skills, and lessons I gained throughout the development process.
+
+---
+
+**Repository:** [UniLink Hub E-Portfolio](https://github.com/Matinisa/UniLinkHub-Portfolio)
+
+**Author:** Matinisa Lubisi  
+**Institution:** Cape Peninsula University of Technology
