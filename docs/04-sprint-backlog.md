@@ -10,17 +10,17 @@ These project phases should not be interpreted as confirmed formal sprints. They
 
 ## 4.2 Reconstructed Project Phases and Development Activities
 
-| Approximate phase | Planned / undertaken activities | Responsibility | Supporting evidence |
-| --- | --- | --- | --- |
-| Week 1 — Idea discovery | Brainstorm project ideas and identify the problem of students struggling to discover student products and services. | Whole team | Idea notes, Trello cards or presentation notes. |
-| Week 2 — Project approval | Present the proposed project idea to the lecturer and obtain approval to proceed. | Whole team | Presentation file or lecturer feedback, if available. |
-| Week 3 — Requirements and planning | Discuss the technology stack, team responsibilities and development approach. Gather requirements through interviews and group discussions and formulate user stories. | Whole team, with task-specific responsibilities. | User stories, requirements notes and Trello board. |
-| Week 4 — UI/UX design | Develop Figma wireframes and prototypes. Present the proposed design and colour scheme to the lecturer for approval. | Frontend/UI/UX team, with team feedback. | Figma screenshots, prototype link and presentation evidence. |
-| Weeks 5–6 — Frontend development | Develop the frontend screens and marketplace interactions. | Frontend development team. | GitHub commits, application screenshots and demonstration notes. |
-| Week 7 — Frontend review | Present frontend progress to the group and subsequently to the lecturer for review and approval. | Frontend team and whole team. | Presentation slides or lecturer feedback, if available. |
-| Weeks 8–10 — Backend, database and integration | Develop Java/Spring Boot backend functionality, registration and security features, and REST APIs. Test database connectivity and password protection, troubleshoot API issues and support frontend integration. | Matinisa Lubisi for assigned backend tasks; integration shared with the team. | GitHub commits, code evidence, Postman screenshots and integration tests. |
-| Week 11 — Testing and improvements | An assigned team member tests the system. The team presents progress to the lecturer, discusses feedback and works on final improvements. | Assigned tester and relevant developers. | Actual test cases, test results and verified improvement records. |
-| Week 12 — Deployment and final presentation | Deploy the system and present it to the lecturer. The application is currently not accessible online, so the final deployment URL and status require confirmation. | Whole team; confirm the member responsible for deployment. | Verified deployment URL, deployment screenshots/logs and presentation evidence. |
+| Approximate phase | Planned / undertaken activities | Responsibility |
+| --- | --- | --- |
+| Week 1 — Idea discovery | Brainstorm project ideas and identify the problem of students struggling to discover student products and services. | Whole team |
+| Week 2 — Project approval | Present the proposed project idea to the lecturer and obtain approval to proceed. | Whole team |
+| Week 3 — Requirements and planning | Discuss the technology stack, team responsibilities and development approach. Gather requirements through interviews and group discussions and formulate user stories. | Whole team, with task-specific responsibilities. |
+| Week 4 — UI/UX design | Develop Figma wireframes and prototypes. Present the proposed design and colour scheme to the lecturer for approval. | Frontend/UI/UX team, with team feedback. |
+| Weeks 5–6 — Frontend development | Develop the frontend screens and marketplace interactions. | Frontend development team. |
+| Week 7 — Frontend review | Present frontend progress to the group and subsequently to the lecturer for review and approval. | Frontend team and whole team. |
+| Weeks 8–10 — Backend, database and integration | Develop Java/Spring Boot backend functionality, registration and security features, and REST APIs. Test database connectivity and password protection, troubleshoot API issues and support frontend integration. | Matinisa Lubisi for assigned backend tasks; integration shared with the team. |
+| Week 11 — Testing and improvements | An assigned team member tests the system. The team presents progress to the lecturer, discusses feedback and works on final improvements. | Assigned tester and relevant developers. |
+| Week 12 — Deployment and final presentation | Deploy the system and present it to the lecturer. The application is currently not accessible online, so the final deployment URL and status require confirmation. | Whole team; confirm the member responsible for deployment. |
 
 ## 4.3 My Individual Backend and Database Work Breakdown
 
@@ -62,39 +62,33 @@ The following evidence can be used to demonstrate different stages of the develo
 
 **Evidence 4.1: Trello Development Tasks**
 
-![UniLink Hub product backlog](http://localhost:62964/images/product-backlog-1.png)
+![UniLink Hub product backlog](http://localhost:62964/images/trello-task-1.png)
 
 **Purpose:** Demonstrates how the team organised development activities and monitored task completion.
 
 **Evidence 4.2: Figma Design and Review**
 
-Use screenshots of the actual Figma wireframes or prototypes.
+![UniLink Hub product backlog](http://localhost:62964/images/Figma-Wireframe-1.png)
+
+![UniLink Hub product backlog](http://localhost:62964/images/Figma-Wireframe-2.png)
 
 **Purpose:** Demonstrates the interface-planning activities undertaken before and during frontend development.
 
 **Evidence 4.3: GitHub Development Contributions**
 
-Use screenshots showing relevant branches, commits or pull requests.
+![UniLink Hub product backlog](http://localhost:62964/images/G-Commits-2.png) ![UniLink Hub product backlog](http://localhost:62964/images/GitHub-Repo-1.png)
 
 **Purpose:** Demonstrates code development activities and contributions made through version control.
 
-**Evidence 4.4: Postman API Testing**
+**Evidence 4.4: System Testing and Final Presentation**
 
-Use screenshots showing genuine backend requests and their responses.
-
-**Purpose:** Demonstrates the testing and troubleshooting activities undertaken during backend development.
-
-**Evidence 4.5: System Testing and Final Presentation**
-
-Use actual testing records, presentation slides, screenshots or lecturer feedback where available.
+![UniLink Hub product backlog](http://localhost:62964/images/log-in-1.png)
 
 **Purpose:** Demonstrates the system review and testing activities conducted before the final presentation.
 
-**Evidence 4.6: Deployment Evidence**
+**Evidence 4.5: Deployment Evidence**
 
-If available, include the actual deployment URL, deployment screenshots or logs.
-
-**Purpose:** Demonstrates the deployment activity. If the deployment cannot currently be verified, clearly state this rather than presenting an inaccessible application as successfully deployed.
+[Click to View UnilinkHub](https://unilinkhub-ybr9.onrender.com/)
 
 ## 4.5 Personal Reflection
 
