@@ -2,7 +2,7 @@
 
 ## 3.1 Purpose
 
-The product backlog is the ordered list of work needed to build and improve UniLink Hub. The priorities below are a reconstructed summary based on the described project scope, not a claim that these were the exact original Trello rankings. Replace this table with an export or screenshot of the actual backlog if available.
+The product backlog is the ordered list of work needed to build and improve UniLink Hub. The priorities below are a reconstructed summary based on the described project scope, not a claim that these were the exact original Trello rankings.
 
 Priority meanings:
 
@@ -33,11 +33,11 @@ Priority meanings:
 
 The team used Trello to track some tasks and backlog work, and GitHub for code sharing through branches and commits. Work was divided across frontend/UI, backend/database, documentation and coordination. The project also included progress presentations to the lecturer, which provided opportunities to review progress and discuss improvements.
 
-## 3.4 Evidence to attach
+## 3.4 Evidence attached
 
 [Click here to view our Trello product backlog](https://trello.com/b/B01lSyH6/unilinkhub)
 
-### Evidence 3.1: Product Backlog
+### Evidence 3.4.1: Product Backlog
 
 ![UniLink Hub team meeting](../images/product-backlog-1.png)
 

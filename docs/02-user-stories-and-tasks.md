@@ -36,7 +36,6 @@ My individual responsibility was mainly backend and database connection work. Th
 -   Troubleshoot security/API responses and backend integration issues.
 -   Support integration between the backend and frontend.
 
-Use GitHub commit history, relevant code files and safe Postman screenshots to demonstrate which tasks I personally completed. Do not include credentials, real user passwords, tokens or other secrets.
 
 ## 2.4 Task decomposition example
 
@@ -49,8 +48,6 @@ Use GitHub commit history, relevant code files and safe Postman screenshots to d
 5.  Save the account through the persistence layer.
 6.  Test successful and unsuccessful requests in Postman.
 7.  Record the observed result and fix any issues found.
-
-This is a useful breakdown of the work, but only mark individual tasks as completed when supported by the code, test results or project records.
 
 ## 2.5 Evidence to attach
 

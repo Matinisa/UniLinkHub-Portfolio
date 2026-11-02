@@ -1,13 +1,13 @@
-# 4. Sprint Backlog — UniLink Hub
+# 4\. Sprint Backlog — UniLink Hub
 
 ## 4.1 Important note about sprint duration
 
-The team used a sprint-based approach, but the exact sprint duration is unknown. The timeline below groups the remembered work into approximate project phases across about 12 weeks. These phases are not presented as verified formal sprint boundaries. Do not add sprint start/end dates unless they can be confirmed from Trello, meeting notes, GitHub history or the lecturer's instructions.
+The team used a sprint-based approach, but the exact sprint duration is unknown. The timeline below groups the remembered work into approximate project phases across about 12 weeks. These phases are not presented as verified formal sprint boundaries.
 
 ## 4.2 Reconstructed phase plan
 
 | Approximate phase | Work planned / undertaken | Responsibility | Evidence to locate |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Week 1 — idea discovery | Brainstorm project ideas and identify the problem of students struggling to discover student products/services. | Whole team | Idea notes, Trello cards or presentation notes. |
 | Week 2 — approval | Present the proposed project idea to the lecturer and receive approval to proceed. | Whole team | Presentation file or lecturer feedback, if available. |
 | Week 3 — requirements and planning | Discuss the technology stack, team responsibilities and approach; gather requirements through interviews and group-chat discussions; formulate user stories. | Whole team, with task-specific owners | User stories, requirements notes, Trello board. |
@@ -21,29 +21,62 @@ The team used a sprint-based approach, but the exact sprint duration is unknown.
 ## 4.3 My backend/database work breakdown
 
 These are task groups based on my described contribution.
-- **Backend setup and structure:** work in Java and Spring Boot.
-- **Registration and security:** implement and troubleshoot registration and Spring Security behaviour.
-- **API development:** create or connect REST endpoints for frontend use.
-- **Persistence/connectivity:** test MySQL database connectivity and persistence behaviour.
-- **Password protection:** test password encryption/hashing behaviour.
-- **API testing:** use Postman to test requests, responses and error cases.
-- **Integration:** help connect backend functionality to the frontend and investigate integration problems.
+
+-   **Backend setup and structure:** work in Java and Spring Boot.
+-   **Registration and security:** implement and troubleshoot registration and Spring Security behaviour.
+-   **API development:** create or connect REST endpoints for frontend use.
+-   **Persistence/connectivity:** test MySQL database connectivity and persistence behaviour.
+-   **Password protection:** test password encryption/hashing behaviour.
+-   **API testing:** use Postman to test requests, responses and error cases.
+-   **Integration:** help connect backend functionality to the frontend and investigate integration problems.
 
 ## 4.4 Sprint planning and review evidence
 
 The following evidence would help demonstrate planning and completion:
 
+-   GitHub branches, commits and pull requests that correspond to tasks.
+-   Figma prototype and design-review evidence.
+-   Safe Postman screenshots showing actual tests.
+-   Actual testing notes and lecturer feedback.
+-   Verified deployment status.
 
+  
 
+  
 
+  
 
-- GitHub branches, commits and pull requests that correspond to tasks.
-- Figma prototype and design-review evidence.
-- Safe Postman screenshots showing actual tests.
-- Actual testing notes and lecturer feedback.
-- Verified deployment status.
+  
 
-If the team did not maintain formal sprint records, say so honestly and use the available Trello/GitHub evidence. Do not create retrospective records and present them as contemporaneous records.
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
 ## 4.5 Reflection
 
