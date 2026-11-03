@@ -77,7 +77,7 @@ The following screenshots provide evidence of the requirements, development acti
 
 ### Evidence 2.5.3: API Testing
 
-![UniLink Hub Postman API testing](../images/Api-Test-1.png)
+![UniLink Hub Postman API testing](../images/API-Test-1.png)
 
 ![UniLink Hub Postman API testing](../images/Api-Test-2.png)
 
