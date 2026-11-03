@@ -86,9 +86,7 @@ These activities helped me understand that backend functionality must be verifie
 ### What I learned
 
 The project provided practical experience with Java, Spring Boot, Spring Security, REST APIs, Postman and database connectivity.
-
 I also learned that software delivery depends on more than coding. Communication, documentation, testing, integration, task management and deployment are equally important parts of a software development project.
-
 Another important lesson was that technical problems should be investigated systematically. Testing API requests and examining responses helped me understand backend behaviour and identify possible causes of errors.
 
 ### What I would improve next time
