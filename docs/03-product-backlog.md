@@ -42,7 +42,7 @@ The team also participated in progress presentations with the lecturer. These pr
 
 [View the UniLink Hub Trello Board](https://trello.com/b/B01lSyH6/unilinkhub)
 
-![UniLink Hub product backlog](http://localhost:62964/images/product-backlog-1.png)
+![UniLink Hub product backlog](../images/product-backlog-1.png)
 
 **Figure 3.1: UniLink Hub Product Backlog**
 
