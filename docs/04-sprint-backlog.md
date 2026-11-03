@@ -92,16 +92,10 @@ The following evidence can be used to demonstrate different stages of the develo
 
 ## 4.5 Personal Reflection
 
-Breaking the development work into different phases helped me understand how a software project progresses from idea discovery and requirements gathering to design, implementation, testing and deployment.
+Breaking the development work into different phases helped me understand how a software project progresses from idea discovery and requirements gathering to design, implementation, testing and deployment. During UniLink Hub development, my backend responsibilities involved more than simply writing API endpoint code. I also had to investigate security configuration, test API behaviour, check database connectivity and assist with frontend and backend integration.
 
-During UniLink Hub development, my backend responsibilities involved more than simply writing API endpoint code. I also had to investigate security configuration, test API behaviour, check database connectivity and assist with frontend and backend integration.
+One of the main lessons I learned was that different development activities depend on one another. For example, the frontend requires functioning backend endpoints to retrieve and submit information, while the backend requires appropriate database connectivity to store and retrieve application data. I also realised that integration should be tested throughout development rather than being left until the final stages. Identifying integration problems earlier can help reduce delays and make it easier for team members to resolve issues.
 
-One of the main lessons I learned was that different development activities depend on one another. For example, the frontend requires functioning backend endpoints to retrieve and submit information, while the backend requires appropriate database connectivity to store and retrieve application data.
-
-I also realised that integration should be tested throughout development rather than being left until the final stages. Identifying integration problems earlier can help reduce delays and make it easier for team members to resolve issues.
-
-Another challenge was managing development activities alongside other project responsibilities. The experience showed me that clear task allocation, regular progress updates and realistic deadlines are important when working towards a shared project goal.
-
-In future projects, I would maintain a more structured sprint backlog with clearly defined sprint goals, task owners, acceptance criteria, deadlines and links to supporting evidence. I would also encourage the team to conduct regular progress reviews so that incomplete tasks and technical blockers can be identified earlier.
+Another challenge was managing development activities alongside other project responsibilities. The experience showed me that clear task allocation, regular progress updates and realistic deadlines are important when working towards a shared project goal. In future projects, I would maintain a more structured sprint backlog with clearly defined sprint goals, task owners, acceptance criteria, deadlines and links to supporting evidence. I would also encourage the team to conduct regular progress reviews so that incomplete tasks and technical blockers can be identified earlier.
 
 Although the exact sprint duration and formal sprint boundaries for UniLink Hub are unknown, reconstructing the project timeline helped me reflect on the different development stages and understand the importance of planning, coordination and continuous review in Agile software development.

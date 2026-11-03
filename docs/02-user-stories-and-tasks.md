@@ -1,92 +1,96 @@
 # 2\. User Stories and Tasks — UniLink Hub
 
-## 2.1 Requirements background
+## 2.1 Requirements Background
 
-The team identified a need for students to discover products and services offered by student entrepreneurs more easily. Requirements were gathered through discussions, interviews and group-chat messages about difficulties finding student-owned offerings.
+The team identified a need for students to discover products and services offered by student entrepreneurs more easily. Requirements were gathered through team discussions, interviews and group-chat messages about the difficulties students experienced when trying to find student-owned businesses and their offerings.
 
-The stories below are reconstructed from the functionality described for the project:
+The user stories presented below were reconstructed from the functionality and requirements described for the UniLink Hub project. They represent the user needs that guided the system's development. Not every story should automatically be interpreted as a completed feature.
 
-## 2.2 User stories
+## 2.2 User Stories and Acceptance Criteria
 
-| ID | User story | Priority | Related tasks / acceptance evidence |
+| ID | User Story | Priority | Acceptance Criteria |
 | --- | --- | --- | --- |
-| US-01 | As a student, I want to register for an account so that I can use the marketplace. | High | Create registration UI and API; validate submitted details; store account data; test successful and unsuccessful registration. Attach authentic registration/API evidence. |
-| US-02 | As a student, I want to verify my email so that the system can confirm my email address. | High | Implement the email-verification flow; test the flow with valid and invalid/expired tokens where supported. Confirm the final behaviour from the running project. |
-| US-03 | As a student browsing the marketplace, I want to search or filter listings so that I can find relevant products or services. | High | Build search/filter controls; connect them to available listing data; test representative searches and filters. |
-| US-04 | As a student, I want to view a listing's details, price, location and images so that I can decide whether it meets my needs. | High | Create listing detail view; display available business/product/service information; test with real project data. |
-| US-05 | As a student entrepreneur, I want to create a business profile so that other students can discover my business. | High | Provide the entrepreneur entry point; collect business details; validate and save the profile; test profile creation. |
-| US-06 | As a student entrepreneur, I want to add products or services with prices, images and locations so that students understand what I offer. | High | Build listing form; handle listing fields and images where implemented; save and display listings; test create/edit behaviour. Confirm any incomplete image handling. |
-| US-07 | As an entrepreneur, I want to edit or delete my own listings so that I can keep information up to date. | Medium | Add owner-authorised update/delete operations; check that users cannot manage another entrepreneur's listings; test both allowed and denied cases. |
-| US-08 | As a student, I want to contact or express interest in a provider so that I can ask about a product or service. | High | Display provider contact information; provide the messaging/interest interaction where implemented; test the interaction. Confirm whether messaging was fully completed. |
-| US-09 | As an entrepreneur, I want to receive a notification when a student expresses interest so that I can respond. | Medium | Record interest; notify the entrepreneur; allow the notification to open the relevant panel/details; test the notification path. |
-| US-10 | As an administrator, I want to review or verify registrations and business providers so that marketplace participation can be checked. | Medium | Provide admin review controls and backend checks; test the relevant admin permissions and review states. Confirm exact implemented scope. |
-| US-11 | As a student, I want to edit my profile so that my account information remains current. | Medium | Provide profile editing; validate updates; persist changes; test the updated profile. |
-| US-12 | As a user, I want to choose a light or dark appearance so that the interface is comfortable to use. | Low / improvement | Confirm whether a theme preference feature exists. If not completed, keep this as a future improvement rather than claiming it is implemented. |
+| US-01 | As a student, I want to register for an account so that I can use the marketplace. | High | The system accepts valid registration details, validates required fields and provides an appropriate response when registration succeeds or fails. |
+| US-02 | As a student browsing the marketplace, I want to search or filter listings so that I can find relevant products or services. | High | Users can search or filter available listings and view results relevant to their search criteria. |
+| US-03 | As a student, I want to view a listing's details, price, location and images so that I can decide whether it meets my needs. | High | The listing displays its available details, including its description, price, location and images where provided. |
+| US-04 | As a student entrepreneur, I want to create a business profile so that other students can discover my business. | High | An entrepreneur can submit the required business information and create a profile that can be displayed on the marketplace. |
+| US-05 | As a student entrepreneur, I want to add products or services with prices, images and locations so that students understand what I offer. | High | An entrepreneur can submit listing information, and successfully saved listings display the available product or service details. |
+| US-06 | As an entrepreneur, I want to edit or delete my own listings so that I can keep information up to date. | Medium | An entrepreneur can update or delete their own listings, and unauthorised users cannot modify another entrepreneur's listings. |
+| US-07 | As a student, I want to contact or express interest in a provider so that I can ask about a product or service. | High | The platform provides an available contact or interest option through which a student can communicate their interest in a listing. |
+| US-08 | As an entrepreneur, I want to receive a notification when a student expresses interest so that I can respond. | Medium | An entrepreneur receives an appropriate notification when a student expresses interest, where this functionality is implemented. |
+| US-09 | As an administrator, I want to review or verify registrations and business providers so that marketplace participation can be checked. | Medium | An administrator can access the relevant review functionality and manage registration or provider verification according to their permissions. |
+| US-10 | As a student, I want to edit my profile so that my account information remains current. | Medium | A student can update permitted profile information, and the changes are saved and displayed correctly. |
+| US-11 | As a user, I want to choose a light or dark appearance so that the interface is comfortable to use. | Low / Improvement | If implemented, users can switch between light and dark appearance modes. Otherwise, this remains a proposed improvement. |
 
-## 2.3 My tasks: backend and database
+## 2.3 My Individual Tasks: Backend and Database
 
-My individual responsibility was mainly backend and database connection work. The following task list reflects the work I described:
+My primary responsibility in the project was backend development and database connectivity. The following tasks describe the work I contributed to:
 
--   Implement backend functionality using Java and Spring Boot.
--   Work on Spring Security and registration/security behaviour.
--   Create or connect REST API endpoints to support the frontend.
--   Test registration and API behaviour with Postman.
--   Test database connectivity using MySQL.
--   Test password encryption/hashing behaviour.
--   Troubleshoot security/API responses and backend integration issues.
--   Support integration between the backend and frontend.
+-   Implementing backend functionality using Java and Spring Boot.
+-   Working with Spring Security and registration and authentication behaviour.
+-   Creating and connecting REST API endpoints to support frontend functionality.
+-   Testing registration and API behaviour using Postman.
+-   Testing database connectivity using MySQL.
+-   Testing password encryption and hashing behaviour.
+-   Troubleshooting backend security configuration and API response issues.
+-   Supporting integration between the backend and frontend.
 
+## 2.4 Task Decomposition Example
 
-## 2.4 Task decomposition example
+**User Story User no.                        01: Register an Account**
 
-**Story US-01: Register an account**
+The registration user story can be divided into smaller development tasks:
 
 1.  Identify the required registration fields.
-2.  Create or connect the registration endpoint.
-3.  Validate the incoming request.
-4.  Apply the intended password-protection mechanism.
-5.  Save the account through the persistence layer.
-6.  Test successful and unsuccessful requests in Postman.
-7.  Record the observed result and fix any issues found.
+2.  Create or connect the registration API endpoint.
+3.  Validate the registration request.
+4.  Apply the appropriate password-protection mechanism.
+5.  Save the account information through the persistence layer.
+6.  Test successful and unsuccessful registration requests using Postman.
+7.  Record the observed results and resolve any issues identified during testing.
 
-## 2.5 Evidence to attach
+## 2.5 Evidence
 
-### Evidence 2.1: User Story Evidence
+The following screenshots provide evidence of the requirements, development activities and backend testing associated with UniLink Hub.
 
-![UniLink Hub team meeting](../images/Trello-User-Story-1.png) 
+### Evidence 2.5.1: User Stories
 
-![UniLink Hub team meeting](../images/Trello-User-Story-2.png)
+![UniLink Hub Trello user stories](http://localhost:62964/images/Trello-User-Story-1.png)
 
-**Figure 1: Conducted User Story**
+![UniLink Hub Trello user stories](http://localhost:62964/images/Trello-User-Story-2.png)
 
-**Purpose:** The screen shorts above serves as evidence for the conducted user stories behind the production of the system
+**Figure 2.1: User Stories on Trello**
 
-**Reflection:** User stories assisted us a lot on mapping excactly what the user expect to see on the system, and the type of problem we trying to solve. The usage of user story is like being placed inside the user's shoes, making it faccilitative to easly satisfy user,s needs
+**Purpose:** These screenshots provide evidence of the user stories recorded for UniLink Hub and how user requirements were organised during the project.
 
-### Evidence 2.2: Git Commits
+**Reflection:** User stories helped us understand what users expected from the system and the problems we were trying to solve. Writing requirements from the user's perspective encouraged us to consider the purpose of each feature rather than focusing only on the technical implementation. This helped connect the development work to the actual needs of students and student entrepreneurs.
 
-![UniLink Hub team meeting](../images/G-Commits-1.png)
+### Evidence 2.5.2: GitHub Commits
 
-**Figure 2: GitHub Repo Commits**
+![UniLink Hub GitHub commits](http://localhost:62964/images/G-Commits-1.png)
 
-**Purpose:** The screenshots above serves as evidence for the conducted user stories behind the production of the system
+**Figure 2.2: GitHub Repository Commits**
 
-**Reflection:** User stories assisted us a lot on mapping excactly what the user expect to see on the system, and the type of problem we trying to solve. The usage of user story is like being placed inside the user's shoes, making it faccilitative to easly satisfy user,s needs
+**Purpose:** This screenshot provides evidence of development activity and code contributions recorded in the team's GitHub repository.
 
-### Evidence 2.3: API test Evidence
+**Reflection:** GitHub helped us share and manage the project's source code. The commit history also provided a way to track changes made to the application and identify development contributions. Through this experience, I gained a better understanding of the importance of version control when working with other developers on a shared project.
 
-![UniLink Hub team meeting](../images/Api-Test-1.png) 
-![UniLink Hub team meeting](../images/Api-Test-2.png)
+### Evidence 2.5.3: API Testing
 
-**Figure 3: API end-point test**
+![UniLink Hub Postman API testing](http://localhost:62964/images/Api-Test-1.png)
 
-**Purpose:** These are the API end-points used 
-to test the back-end of the system, to check is the severside works correctly,
-and testing some CRUD methods os the system.
+![UniLink Hub Postman API testing](http://localhost:62964/images/Api-Test-2.png)
 
-**Reflection:** Using postman for API testing has made it easy for us and sped up the process, 
-rather using the old traditional way
+**Figure 2.3: Backend API Endpoint Testing**
 
-## 2.6 Reflection
+**Purpose:** These screenshots provide evidence of backend API testing using Postman. The tests were used to check server-side functionality, inspect API responses and test relevant CRUD operations.
 
-Writing requirements as user stories helps connect development work to a real user need rather than treating a feature as code in isolation. Breaking a story into smaller tasks also makes it easier to estimate what must be built and tested. In my backend role, I learned that an endpoint is not complete just because the code compiles: the request, security rules, database operation and response must work together. I need to improve how consistently I record acceptance criteria and test evidence so that completion can be verified by another team member.
+**Reflection:** Using Postman made it easier to send requests to backend endpoints and inspect the responses returned by the server. It helped me identify problems with API requests and understand whether the backend was responding as expected. I also learned that successful API testing involves checking more than whether an endpoint responds; it is important to examine the response data, status codes and expected behaviour.
+
+## 2.6 Personal Reflection
+
+Working with user stories helped me understand how software requirements can be translated into practical development activities. Instead of treating a feature as an isolated piece of code, I learned to consider the problem it is intended to solve for the user. Breaking user stories into smaller tasks also made it easier to understand the development work required to implement a feature. This was particularly useful in my backend role, where functionality involved several connected components, including API endpoints, validation, security configuration and database operations.
+
+One of the most important lessons I learned was that an API endpoint is not complete simply because the code compiles. The request, security rules, database operation and response must work together correctly for the functionality to meet its intended purpose. I also gained practical experience using Postman to test backend endpoints and investigate unexpected responses. However, I recognised that I need to improve my ability to define clear acceptance criteria and consistently document test results so that other team members can verify whether a task has been completed successfully.
+
+In future projects, I would pay more attention to documenting requirements, breaking larger user stories into manageable tasks and recording evidence as development progresses. This would improve collaboration, make progress easier to monitor and help ensure that the final system addresses the needs of its intended users.

@@ -1,98 +1,100 @@
-# 1. Agile Team Charter — UniLink Hub
+# 1\. Agile Team Charter — UniLink Hub
 
-## 1.1 Project purpose
+## 1.1 Project Purpose
 
-UniLink Hub was proposed as a marketplace that connects student entrepreneurs with other students who need products or services. The problem identified by the team was that students could struggle to discover student-owned businesses when relying on informal group chats or searching across different online spaces. The system aims to make those offerings easier to find in one place.
+UniLink Hub was proposed as a marketplace that connects student entrepreneurs with other students who are looking for products or services. The team identified that students sometimes struggle to discover student-owned businesses because information is shared across informal group chats and different online platforms. The purpose of UniLink Hub is to make student businesses and their offerings easier to discover by bringing them together in one accessible platform.
 
-## 1.2 Shared goal
+## 1.2 Shared Goal
 
-Build and present a usable student marketplace where entrepreneurs can create business profiles and list products or services, while other students can browse listings, search or filter offerings, view listing details, and contact or express interest in providers.
+The team's shared goal was to build and present a usable student marketplace where:
 
-## 1.3 Team roles
+-   Student entrepreneurs can create business profiles and advertise their products or services.
+-   Other students can browse and search for available products and services.
+-   Users can filter offerings and view listing details.
+-   Potential customers can contact or express interest in student entrepreneurs.
 
-| Role / responsibility | Assigned work |
-|---|---|
-| Backend | Matinisa Lubisi and Andani Gola— Java/Spring Boot backend, Spring Security, REST APIs, registration/security work, database connectivity/testing, and backend integration |
-|Database Design | Tim Davids- Was responsible for the database design, along with the design/ drafting the ERD diagram, then testing with MySQL workbench|
-| UI/UX | Tshepiso Prety Kekana — Figma Wireframe Design Website |
-| Frontend | Siphokuhle Gedze — Developed using Vue 3+ TypeScript, Vite, Pinia, Tailwind CSS |
-| Documentation | Tshepiso Pretty Kekana and Tim Davids — project documentation |
-| Project management / coordination | Tim Davids — project coordination |
-| Testing | Everyone was responsible |
-``
+## 1.3 Team Roles and Responsibilities
 
-## 1.4 Stakeholders and users
+| Role / Responsibility | Assigned Work |
+| --- | --- |
+| Backend Development | Matinisa Lubisi and Andani Gola — responsible for Java/Spring Boot backend development, Spring Security, REST APIs, registration and authentication functionality, and backend integration. |
+| Database Design | Tim Davids — responsible for database design, drafting the Entity Relationship Diagram (ERD), and testing the database using MySQL Workbench. |
+| UI/UX Design | Tshepiso Pretty Kekana — responsible for designing the website wireframes and interface prototypes using Figma. |
+| Frontend Development | Siphokuhle Gedze — responsible for frontend development using React, HTML, CSS and JavaScript. |
+| Documentation | Tshepiso Pretty Kekana and Tim Davids — responsible for preparing project documentation. |
+| Project Management / Coordination | Tim Davids — responsible for coordinating project activities and tasks. |
+| Testing | All team members — responsible for testing their respective contributions and assisting with overall system testing. |
 
-- **Student client / browser:** registers, browses and searches for student products or services, views details and contacts or expresses interest in providers.
-- **Student entrepreneur:** creates an entrepreneur/business profile, publishes product or service listings, adds details such as price, images and location, and manages listings.
-- **Administrator:** reviews or verifies registrations and business providers/clients, according to the functionality described by the team.
-- **Lecturer / assessor:** reviews project progress and provides feedback or approval at presentation points.
-- **Project team:** develops, integrates, tests and presents the system.
+## 1.4 Stakeholders and Users
 
-## 1.5 Working agreements and tools
+-   **Student client:** Registers on the platform, browses and searches for student products or services, views listing details, and contacts or expresses interest in providers.
+-   **Student entrepreneur:** Creates an entrepreneur or business profile, publishes product or service listings, adds information such as prices, images and location, and manages listings.
+-   **Administrator:** Responsible for reviewing or verifying registrations and business providers or clients, depending on the functionality implemented in the system.
+-   **Lecturer:** Reviews project progress, provides feedback, and assesses the project during presentations.
+-   **Project team:** Responsible for developing, integrating, testing, documenting, and presenting the system.
 
-The team used the following tools and practices:
+## 1.5 Working Agreements and Tools
 
-- Microsoft Teams for meetings; WhatsApp was used when Teams had technical problems.
-- GitHub for sharing code and working with branches and commits.
-- Trello to track some tasks and backlog items.
-- Figma to create interface wireframes/prototypes.
-- Postman to test backend APIs.
-- Weekly stand-up/progress presentations to the lecturer were part of the project process, although the team’s internal meetings and communication were not always consistent.
+The team used several tools to support communication, collaboration and project development:
 
+-   **Microsoft Teams:** Used for team meetings and discussions. WhatsApp was used as an alternative when technical problems affected Teams.
+-   **GitHub:** Used to share source code, manage commits and collaborate on development.
+-   **Trello:** Used to allocate tasks and monitor project progress.
+-   **Figma:** Used to create interface wireframes and prototypes.
+-   **Postman:** Used to test backend REST API endpoints.
 
-## 1.6 Boundaries and Collaboration challenges
+The team also participated in progress presentations with the lecturer. However, internal communication and meetings were not always consistent throughout the project.
 
-The project had separate frontend, backend/database, documentation and coordination responsibilities. My responsibility was mainly backend and database connection work, so frontend design and documentation were handled by other team members.
+## 1.6 Boundaries and Collaboration Challenges
 
-Communication was sometimes inconsistent, and meetings did not always happen weekly. This made it harder to confirm progress and obtain documentation or final deployment information promptly. When communication tools had problems, the team sometimes switched from Teams to WhatsApp.
+The project was divided into different areas of responsibility, including frontend development, backend development, database design, documentation and project coordination.
 
-## 1.7 Evidence to attach
+My primary responsibility was backend development, including working with Java, Spring Boot, Spring Security, REST APIs, registration and authentication, and database connectivity and testing. Other team members handled frontend development, UI/UX design, database design, documentation and coordination.
 
-Authentic evidence :
+One of the challenges we experienced was inconsistent communication, whre meetings did not always take place weekly, and obtaining progress updates, documentation and deployment information sometimes took longer than expected.
 
+We also experienced occasional technical problems with our communication tools. When Microsoft Teams was unavailable or experienced difficulties, we sometimes switched to WhatsApp to continue communicating.These challenges demonstrated the importance of consistent communication, clear task ownership and regular progress updates in an Agile team.
 
+## 1.7 Evidence to Attach
+
+The following screenshots provide evidence of the tools and communication methods used during the development of UniLink Hub.
 
 ### Evidence 1.1: Team Communication
 
-![UniLink Hub team meeting](../images/meeting-evidence-1.png)
+![UniLink Hub Microsoft Teams meeting](http://localhost:62964/images/meeting-evidence-1.png)
 
-**Figure 1: Microsoft Teams Meeting**
+**Figure 1.1: Microsoft Teams Meeting**
 
-**Purpose:** This screenshot serves as evidence of team communication
-and collaboration during the development of UniLink Hub.
+**Purpose:** This screenshot provides evidence of team communication and collaboration during the development of UniLink Hub.
 
-**Reflection:** Team meetings helped us share progress, discuss
-challenges, and coordinate our responsibilities. They also showed
-the importance of communication when different members were working
-on the frontend, backend, database, and documentation.
+**Reflection:** Team meetings helped us share progress, discuss challenges and coordinate our responsibilities. They also demonstrated the importance of communication when different team members were working on the frontend, backend, database and documentation.
 
-### Evidence 2: Trello board
-![UniLink Hub team meeting](../images/trello-board-evidence.png)
+### Evidence 1.2: Trello Board
 
-**Figure 1.2: Trello Board Evidence**
+![UniLink Hub Trello project board](http://localhost:62964/images/trello-board-evidence.png)
 
-**Purpose:** This screenshot serves as evidence trello board where project use it for task allocation and track progress.
+**Figure 1.2: Trello Board**
 
-**Reflection:** The trello board facillitated the progress tracking process amongst team members,
-where we  each member ticked certain completed task on the trello board, which assist us 
-to know whether a member is done with their task withour asking them verbally ot through texts.
+**Purpose:** This screenshot provides evidence of how Trello was used to allocate tasks and monitor project progress.
 
-### Evidence 3: GitHub Evidence
+**Reflection:** Trello helped the team track the progress of assigned tasks. Team members could mark completed tasks on the board, allowing everyone to see which activities had been completed without always needing to ask for updates through meetings or messages. This improved task visibility and helped the team monitor individual contributions.
 
-![UniLink Hub team meeting](../images/GitHub-Repo-1.png)
+### Evidence 1.3: GitHub Repository
 
-**Figure 1.3: GitHub website**
+![UniLink Hub GitHub repository](http://localhost:62964/images/GitHub-Repo-1.png)
 
-**Purpose:** This screenshot serves as evidence code working emviroment, 
-where team members use it to collaborate, share and edit code, which also 
-serves as evidence on where team members contributed on the project.
+**Figure 1.3: GitHub Repository**
 
-**Reflection:** GitHub has assisted us on sharing/ working with system code, 
-instead of sharing code folders manually. It also allows members comment on someone
- else's code
-## 1.8 Reflection
+**Purpose:** This screenshot provides evidence of the team's use of GitHub as a collaborative development environment for sharing source code and managing project contributions.
 
-Working in a team showed me that technical implementation is only one part of software development. Clear task ownership, reliable communication and timely sharing of documentation are also necessary for integration and submission. My backend/database responsibility gave me practical experience with Java, Spring Boot, Spring Security, REST APIs, registration and database connectivity/testing.
+**Reflection:** GitHub helped us collaborate on the system's source code without having to share entire project folders manually. It also provided a way to track code changes and review contributions through commits and other repository activities. This demonstrated the value of version control when multiple developers work on the same project.
 
-One challenge was that I sometimes needed tutorials and AI assistance to understand and troubleshoot unfamiliar backend behaviour, including API responses and security configuration. I used these resources to investigate problems and continue learning, but I still need more practice solving coding problems independently and explaining each implementation decision. In future projects, I would ask for clarification earlier, record decisions and blockers, and maintain clearer evidence of progress throughout the project.
+## 1.8 Personal Reflection
+
+Working as part of the UniLink Hub team helped me understand that software development involves more than technical implementation. Effective teamwork also requires clear task ownership, consistent communication, collaboration and the timely sharing of information. My responsibility for backend development gave me practical experience working with Java, Spring Boot, Spring Security, REST APIs, registration and authentication functionality, and database connectivity and testing.
+
+One challenge I experienced was understanding and troubleshooting unfamiliar backend behaviour, particularly when working with API responses, security configuration and database connectivity. I sometimes relied on tutorials and AI assistance to understand errors and identify possible solutions. Although these resources helped me continue with development, I recognised that I still need more practice solving programming problems independently and explaining the implementation decisions behind my code.
+
+Another lesson I learned was that inconsistent team communication can affect development progress and integration. When updates or information are delayed, it becomes more difficult for team members to coordinate their work and identify problems early. In future projects, I would encourage more consistent communication, document important decisions, raise blockers earlier, and maintain regular progress updates. I would also aim to improve my independent problem-solving skills so that I can approach technical challenges with greater confidence.
+
+Overall, the project helped me understand the importance of collaboration, accountability, and continuous learning when working in an Agile software development environment.
