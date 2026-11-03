@@ -34,7 +34,7 @@ These tools supported communication and coordination, although the team could ha
 
 ### Evidence 5.3.1: Attendance Register
 
-![UniLink Hub attendance register](http://localhost:62964/images/attendance-register.png)
+![UniLink Hub attendance register](../images/attendance-register.png)
 
 **Figure 5.1: Project Attendance Register**
 
@@ -56,9 +56,9 @@ These activities helped me understand that backend functionality must be verifie
 
 ### Evidence 5.4.1: Development Task Tracking
 
-![UniLink Hub backlog screenshot 1](http://localhost:62964/images/back-log-1.png)
+![UniLink Hub backlog screenshot 1](../images/back-log-1.png)
 
-![UniLink Hub backlog screenshot 2](http://localhost:62964/images/back-log-2.png)
+![UniLink Hub backlog screenshot 2](../images/back-log-2.png)
 
 **Figure 5.2: Trello Development Task Tracking**
 
