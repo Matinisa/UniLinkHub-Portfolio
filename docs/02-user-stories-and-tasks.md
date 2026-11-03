@@ -55,9 +55,9 @@ The following screenshots provide evidence of the requirements, development acti
 
 ### Evidence 2.5.1: User Stories
 
-![UniLink Hub Trello user stories](http://localhost:62964/images/Trello-User-Story-1.png)
+![UniLink Hub Trello user stories](../images/Trello-User-Story-1.png)
 
-![UniLink Hub Trello user stories](http://localhost:62964/images/Trello-User-Story-2.png)
+![UniLink Hub Trello user stories](../images/Trello-User-Story-2.png)
 
 **Figure 2.1: User Stories on Trello**
 
@@ -67,7 +67,7 @@ The following screenshots provide evidence of the requirements, development acti
 
 ### Evidence 2.5.2: GitHub Commits
 
-![UniLink Hub GitHub commits](http://localhost:62964/images/G-Commits-1.png)
+![UniLink Hub GitHub commits](../images/G-Commits-1.png)
 
 **Figure 2.2: GitHub Repository Commits**
 
@@ -77,9 +77,9 @@ The following screenshots provide evidence of the requirements, development acti
 
 ### Evidence 2.5.3: API Testing
 
-![UniLink Hub Postman API testing](http://localhost:62964/images/Api-Test-1.png)
+![UniLink Hub Postman API testing](../images/Api-Test-1.png)
 
-![UniLink Hub Postman API testing](http://localhost:62964/images/Api-Test-2.png)
+![UniLink Hub Postman API testing](../images/Api-Test-2.png)
 
 **Figure 2.3: Backend API Endpoint Testing**
 
