@@ -61,7 +61,7 @@ The following screenshots provide evidence of the tools and communication method
 
 ### Evidence 1.1: Team Communication
 
-![UniLink Hub Microsoft Teams meeting](http://localhost:62964/images/meeting-evidence-1.png)
+![UniLink Hub Microsoft Teams meeting](../images/meeting-evidence-1.png)
 
 **Figure 1.1: Microsoft Teams Meeting**
 
@@ -71,7 +71,7 @@ The following screenshots provide evidence of the tools and communication method
 
 ### Evidence 1.2: Trello Board
 
-![UniLink Hub Trello project board](http://localhost:62964/images/trello-board-evidence.png)
+![UniLink Hub Trello project board](../images/trello-board-evidence.png)
 
 **Figure 1.2: Trello Board**
 
@@ -81,7 +81,7 @@ The following screenshots provide evidence of the tools and communication method
 
 ### Evidence 1.3: GitHub Repository
 
-![UniLink Hub GitHub repository](http://localhost:62964/images/GitHub-Repo-1.png)
+![UniLink Hub GitHub repository](../images/GitHub-Repo-1.png)
 
 **Figure 1.3: GitHub Repository**
 
