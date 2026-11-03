@@ -62,27 +62,28 @@ The following evidence can be used to demonstrate different stages of the develo
 
 **Evidence 4.1: Trello Development Tasks**
 
-![UniLink Hub product backlog](http://localhost:62964/images/trello-task-1.png)
+![UniLink Hub product backlog](../images/trello-task-1.png)
 
 **Purpose:** Demonstrates how the team organised development activities and monitored task completion.
 
 **Evidence 4.2: Figma Design and Review**
 
-![UniLink Hub product backlog](http://localhost:62964/images/Figma-Wireframe-1.png)
+![UniLink Hub product backlog](../images/Figma-Wireframe-1.png)
 
-![UniLink Hub product backlog](http://localhost:62964/images/Figma-Wireframe-2.png)
+![UniLink Hub product backlog](../images/Figma-Wireframe-2.png)
 
 **Purpose:** Demonstrates the interface-planning activities undertaken before and during frontend development.
 
 **Evidence 4.3: GitHub Development Contributions**
 
-![UniLink Hub product backlog](http://localhost:62964/images/G-Commits-2.png) ![UniLink Hub product backlog](http://localhost:62964/images/GitHub-Repo-1.png)
+![UniLink Hub product backlog](../images/G-Commits-2.png)
+![UniLink Hub product backlog](../images/GitHub-Repo-1.png)
 
 **Purpose:** Demonstrates code development activities and contributions made through version control.
 
 **Evidence 4.4: System Testing and Final Presentation**
 
-![UniLink Hub product backlog](http://localhost:62964/images/log-in-1.png)
+![UniLink Hub product backlog](../images/log-in-1.png)
 
 **Purpose:** Demonstrates the system review and testing activities conducted before the final presentation.
 
